@@ -3,6 +3,7 @@ score = 958
 if score >= 101:
     print('Invalid grade')
     exit()
+
 if score >= 90:
     print("A")
 elif score >= 80:
